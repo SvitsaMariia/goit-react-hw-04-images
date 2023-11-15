@@ -1,5 +1,5 @@
 import { Modal } from 'components/Modal/Modal';
-import css from './ImageGalleyItem.module.css';
+import css from '../ImageGalleryItem/ImageGalleryItem.module.css';
 import { useState } from 'react';
 import propTypes from 'prop-types';
 

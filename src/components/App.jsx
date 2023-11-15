@@ -1,5 +1,5 @@
 import { SearchBar } from './SearchBar/SearchBar';
-import { imagesApi } from 'services/apiGet';
+import { imagesApi } from 'services/pixabay-api';
 import { ImageGallery } from './ImageGallery/ImageGallery';
 import { Button } from './Button/Button';
 import { Loader } from './Loader/Loader';
