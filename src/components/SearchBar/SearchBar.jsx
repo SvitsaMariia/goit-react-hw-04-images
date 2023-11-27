@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchForm from './SearchForm/SearchForm';
+import SearchForm from './SearchBar.module.css';
 import PropTypes from 'prop-types';
 
 import styles from './SearchBar.module.css';
@@ -15,3 +15,5 @@ export default function SearchBar({ onSubmit }) {
 SearchBar.propTypes = {
   onSubmit: PropTypes.func.isRequired,
 };
+
+
